@@ -1,0 +1,846 @@
+
+*******************************************
+ the size of the cell A is: 31
+ the size of the cell B is: 5
+ the size of the cell C is: 1
+*******************************************
+
+The Explored cell is: 
+
+A-A-A--AAAA-B-
+A-AA-AAA----BB
+-A-A--AA----BB
+-A--A-AAAA----
+AA-A-AAAA-A--C
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 1
+ the size of the cell B is: 22
+ the size of the cell C is: 1
+ the size of the cell D is: 1
+*******************************************
+
+The Explored cell is: 
+
+A-BB-B-
+--BBB--
+-BB-B--
+-B-B-B-
+-BB----
+-BB-C-D
+--B----
+-B-BBBB
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 99
+ the size of the cell B is: 1
+ the size of the cell C is: 6
+ the size of the cell D is: 2
+ the size of the cell E is: 26
+*******************************************
+
+The Explored cell is: 
+
+-A-A--AA--B-CCC-
+AAAAAAA-------CC
+AA--AAAAA-AAA--C
+AA--AAAA-A--A---
+A----AAAAAA-A-DD
+--AA-AAAA--AA---
+--A-AA----AA-AAA
+-AAA---A----A---
+-A-AAAA-A--A--EE
+-----AA---A--E-E
+AAAAA-A-E----E-E
+-A-AAA--EEEEE--E
+AA-A--A----EE--E
+-AA-AA-A-E----E-
+AA-AA--A--E----E
+---A---A---EEEEE
+AAAA---A-----E--
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 17
+ the size of the cell B is: 13
+*******************************************
+
+The Explored cell is: 
+
+AAAA-------
+--AAA-BB--B
+-AAAA--BBBB
+A--AA--B-BB
+A-A-A-BB-B-
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 79
+ the size of the cell B is: 1
+ the size of the cell C is: 1
+ the size of the cell D is: 4
+ the size of the cell E is: 1
+*******************************************
+
+The Explored cell is: 
+
+--AAAAAA-AA-B
+-AAAAA----A--
+-AAA-AA-AA-A-
+A-A--AAAA---A
+AAA-A-A---AA-
+AA----AAA-AAA
+-AA-C---A-AA-
+AA------AAAA-
+--AA-A-A-A--A
+D--AAA---A---
+D--A-AAA-----
+D---A---AAA--
+D-E-AA-A-AAA-
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 4
+ the size of the cell B is: 75
+ the size of the cell C is: 6
+ the size of the cell D is: 1
+*******************************************
+
+The Explored cell is: 
+
+AA-----BBBBBB-
+AA-BB---B----B
+---B---B-BBB-B
+BBB---BB--BB--
+BB--B------BB-
+--BBB-B--BBB--
+-B---BB--B--B-
+BB-BBBB--BB--B
+B-BB--BB-BB---
+B-B----BB-BBBB
+-----B-B--B-BB
+-CCC--BBB-----
+C-CC-B---BB-D-
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 69
+ the size of the cell B is: 1
+ the size of the cell C is: 1
+*******************************************
+
+The Explored cell is: 
+
+-AA-AA-A--
+-A-AA--AAA
+A-A--A-A--
+---AA-AA-A
+A-A-AAA-AA
+AA--A--AAA
+A-A--A----
+--A-AA--AA
+-A---AAA-A
+A---A---A-
+-----A--AA
+B-AAAA-A-A
+---A--AA-A
+------AAA-
+--C--AA-AA
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 23
+ the size of the cell B is: 9
+ the size of the cell C is: 1
+ the size of the cell D is: 6
+ the size of the cell E is: 1
+ the size of the cell F is: 6
+*******************************************
+
+The Explored cell is: 
+
+-A----
+-A-AA-
+-AA-A-
+AA-AAA
+-AAAA-
+-A--AA
+AA-A--
+A-----
+--BBB-
+C-B---
+---BB-
+DD---B
+-DDD-B
+--D--B
+E-----
+----FF
+-FFF-F
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 60
+ the size of the cell B is: 26
+*******************************************
+
+The Explored cell is: 
+
+A------AA-BB--BB--B
+AA-----A----BBB-BB-
+AAA-AA--A---B--BB--
+A--A-AAA-A-------BB
+AA--A-A-A-AA-A----B
+A----A-AAA-AA--BBBB
+--AAAAAAAAA--A-B--B
+AA-AA---A-A-A--B-BB
+-AAA--AAAAA-AA----B
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 62
+ the size of the cell B is: 1
+ the size of the cell C is: 8
+ the size of the cell D is: 1
+ the size of the cell E is: 3
+*******************************************
+
+The Explored cell is: 
+
+--A-B--CCC-
+-A-----C-C-
+A-A----C---
+AA-A--C--A-
+-A--A-C--AA
+AA--A---A--
+--AA-AAA--A
+A-A-----AAA
+-A-----AA--
+AAAA-D-A-AA
+---A---A-AA
+AA-AA-AAAA-
+A-A--A-A---
+-A---AA--E-
+A----A----E
+AA--A-A---E
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 25
+ the size of the cell B is: 1
+ the size of the cell C is: 1
+ the size of the cell D is: 1
+ the size of the cell E is: 2
+ the size of the cell F is: 1
+*******************************************
+
+The Explored cell is: 
+
+A-A-B-C
+-AA----
+-AAA--D
+-A-----
+-AAAA-E
+--AA--E
+--A-A--
+-A--AA-
+-A----A
+A--F-A-
+----AA-
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 18
+ the size of the cell B is: 1
+*******************************************
+
+The Explored cell is: 
+
+-AAAAA
+-AA--A
+-A--AA
+A--A--
+A--A--
+AAA--B
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 5
+ the size of the cell B is: 12
+*******************************************
+
+The Explored cell is: 
+
+AA--B
+AA--B
+--A-B
+B---B
+-BBBB
+-BB-B
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 5
+ the size of the cell B is: 66
+ the size of the cell C is: 7
+ the size of the cell D is: 2
+ the size of the cell E is: 1
+*******************************************
+
+The Explored cell is: 
+
+A---BBBB-
+A-BB--B-B
+A-BBBBB--
+A--BBB--B
+A-BB-BBBB
+--B----B-
+BB-B-B-BB
+-B-BBB---
+BBB-BB--B
+-B-B-BBBB
+B--B-BBB-
+B--BBB---
+BB----BB-
+----C--B-
+---C---B-
+DD-C--BB-
+----C--B-
+E-CC-C-B-
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 70
+ the size of the cell B is: 8
+ the size of the cell C is: 1
+ the size of the cell D is: 1
+ the size of the cell E is: 12
+ the size of the cell F is: 4
+ the size of the cell G is: 13
+ the size of the cell H is: 1
+ the size of the cell I is: 2
+*******************************************
+
+The Explored cell is: 
+
+----AA----BB
+-AAA--A--BBB
+AA-AA--A--B-
+AAAA-AAA-B--
+AAAAA-AA-B-C
+AA-AAAA-----
+AAAA-A-----D
+A-AAA--E----
+AA---A-EEE--
+-A--AA-E-EE-
+A-AAAA-E-E--
+A---A--E---F
+-AA-A-EE-FFF
+---A--------
+--A----GGG--
+A-AA--G-GG-H
+A-A-----G---
+-A-AA---G---
+-A-AA-GG---I
+----A-G-GG-I
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 73
+ the size of the cell B is: 1
+ the size of the cell C is: 6
+ the size of the cell D is: 3
+*******************************************
+
+The Explored cell is: 
+
+AAAA-A-AA-AAAA
+-A-AAAA-AA-A-A
+----A-AAA-----
+AAAA-AAA-AAAAA
+--A-AAA-A--AAA
+-----AAAA--A--
+B--AA--AA-----
+--A--AA--A-C-C
+---AAA---A-C-C
+DD-AAAA-A---C-
+D-AAAAAAA--C--
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 56
+ the size of the cell B is: 4
+*******************************************
+
+The Explored cell is: 
+
+--AA---A
+AAAAAAAA
+---AAAAA
+-AA--A-A
+-A----A-
+A-A-A---
+-AAAAA--
+---A----
+A-AA--A-
+-AA-AA-A
+AAAA----
+--AAA--A
+----AA-A
+BB-AAAA-
+-B--A---
+B-------
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 78
+ the size of the cell B is: 1
+ the size of the cell C is: 1
+ the size of the cell D is: 7
+ the size of the cell E is: 1
+ the size of the cell F is: 5
+*******************************************
+
+The Explored cell is: 
+
+-A-A-A-B--AAAAA-
+A---AA----AA----
+-AAAAAA---AA---C
+A--------A-AAA--
+-A---AA-AAA----D
+-AAAA----AAA---D
+-AA--AAA--AAA--D
+-A-AAA-A-AAA--DD
+A--A-A-AA--AA-DD
+-AAA-A-A--------
+-A-AAA-A-E-FFF--
+-AA-AAA-A-----FF
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 29
+*******************************************
+
+The Explored cell is: 
+
+-AAAAA--
+AA---AA-
+AAA-AA-A
+AAAA--A-
+--AAAA-A
+-A---AAA
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 2
+ the size of the cell B is: 125
+ the size of the cell C is: 2
+ the size of the cell D is: 4
+ the size of the cell E is: 47
+ the size of the cell F is: 1
+ the size of the cell G is: 1
+*******************************************
+
+The Explored cell is: 
+
+A-BBB---B---BBBBBB-B
+A--B-BBBB-BB---BBBBB
+-----B----B-B-B--B--
+CC-B-BBB-------BBBBB
+---BB---B--BBBB---BB
+D---B--B-BB-BBB-----
+DDD-B---B-B-B-B----B
+----------BBB-B---BB
+-------EE--B-BBBBB-B
+EEE--EEE----BBB--BBB
+E--EEEEE----B-----B-
+E-E-EE-E-E---BB-BBB-
+-EEE--EEE---BBBB----
+E-EEE-E-----B-B---BB
+E-EE---EE-B-B-B--B-B
+EE---F--E-BBB-B--BBB
+E-------E-B-B-B-BB-B
+-EEE-G--E-B--BBBBBBB
+E-E------B-BB-B---BB
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 2
+ the size of the cell B is: 91
+ the size of the cell C is: 3
+ the size of the cell D is: 27
+ the size of the cell E is: 7
+ the size of the cell F is: 2
+ the size of the cell G is: 1
+*******************************************
+
+The Explored cell is: 
+
+--AA---B--BB---B-CC
+------BBB-B---BB--C
+-DD---B-BB-----B---
+DDD-BB---BB-BBBB--B
+-DD-BBBBB--B-B---B-
+D---BB-B--B-BB--B--
+D--B-B--B--B-B-B-BB
+D-------B---B--B-B-
+-D----B--B-BB-B-BBB
+-D-D-B-B-B-BB-BBB--
+DDDD-B--BBB-BB---B-
+DD-D-B-B-B--BB-----
+-D-D---BBBB--B---EE
+D-DD-F--BBB--B-G-EE
+--DD-F-BBB-B---EEE-
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 4
+ the size of the cell B is: 183
+ the size of the cell C is: 2
+ the size of the cell D is: 5
+ the size of the cell E is: 2
+*******************************************
+
+The Explored cell is: 
+
+-AAA-BBB-B-B-B--B-B-
+--A----BB-BBB---B-BB
+B----B-BBBBB---BBBB-
+B-B--B---BBBBB-BBB--
+-B-BB-BBB--B---B-BBB
+BB--BB--------BB--B-
+-BBBBBBBB--BBB---BB-
+---BBB-B-B-BB--BBB--
+--BBB---BB-BB-B---BB
+BB--B--BB--BBB-B-B--
+---B-B--B---------B-
+-BB-----B--BB-B--B--
+--BB-BBB---B--B-BB-C
+BB-B---B---BB-BBB--C
+-B-B-B-B-BBB-BBB----
+-BB--BB-B-B-BBBB-BBB
+B-B--B-B--BB-BB-BB-B
+BBBB------B----B---B
+-B---DDD--B--E--B-B-
+BB-DD-BBBBB--E-B-B-B
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 31
+ the size of the cell B is: 2
+ the size of the cell C is: 2
+*******************************************
+
+The Explored cell is: 
+
+A---BB--
+-A-----A
+AA--AAAA
+-AA-A--A
+A-A--AA-
+---A--AA
+C--AAA-A
+C--A-AAA
+-AA----A
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 1
+ the size of the cell B is: 7
+ the size of the cell C is: 5
+ the size of the cell D is: 27
+*******************************************
+
+The Explored cell is: 
+
+A-BBB
+--BB-
+----B
+--C-B
+-CC--
+---CC
+-D---
+D--DD
+DDDD-
+DDDDD
+-D--D
+D--DD
+DD-D-
+-DDD-
+D-D-D
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 3
+ the size of the cell B is: 26
+ the size of the cell C is: 2
+ the size of the cell D is: 23
+ the size of the cell E is: 1
+ the size of the cell F is: 3
+ the size of the cell G is: 1
+*******************************************
+
+The Explored cell is: 
+
+A-----
+A-B--C
+A-BB-C
+---B--
+-B-BBB
+-B--BB
+B--BB-
+BB-BB-
+BBBB-B
+B----B
+----B-
+DDD---
+-DD--E
+DD----
+-DD-FF
+DDD--F
+-DDD--
+--DDD-
+G-D-D-
+--D-DD
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 39
+ the size of the cell B is: 4
+ the size of the cell C is: 5
+*******************************************
+
+The Explored cell is: 
+
+--A---A--AAA--BB---
+-AA-AAAAA-AAA-B----
+A--A-AA-AA-----B-C-
+-A-AA-AAAAAAA-----C
+AAA----A-A--AAA-CCC
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 19
+ the size of the cell B is: 2
+*******************************************
+
+The Explored cell is: 
+
+AA-A-BB
+--AA---
+A---AA-
+AA--A-A
+AAAA---
+-A--AA-
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 39
+ the size of the cell B is: 1
+ the size of the cell C is: 2
+ the size of the cell D is: 49
+ the size of the cell E is: 8
+ the size of the cell F is: 1
+ the size of the cell G is: 4
+*******************************************
+
+The Explored cell is: 
+
+A-A-A---A-B
+AAA-A---A--
+-A--A-AAA-A
+-AAAAAAAA-A
+----A--A-AA
+-AAA---AA--
+A----C--AA-
+A-----C-A-A
+---DD------
+DDDDDDDDD-D
+D-DDDDDD-DD
+----D-D----
+------DDD--
+-E-DDD-D--D
+EE-DDDDDDDD
+E--DDDD----
+EE-DD------
+-E-DD-F--GG
+-E--DD--GG-
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 14
+ the size of the cell B is: 29
+ the size of the cell C is: 29
+ the size of the cell D is: 1
+ the size of the cell E is: 1
+ the size of the cell F is: 4
+ the size of the cell G is: 2
+*******************************************
+
+The Explored cell is: 
+
+AA-AAA----BBB---C-C-
+-AAAAAAA---B-----CCC
+-A---A----BBB-C--C--
+---B----BB----CCC-C-
+--B--BB-BB-D-CCC--CC
+--BB-B-B------C-CCC-
+BB--B--B-E-F----C-CC
+B-BBB-B----F-G-CC-C-
+------B---FF-G--C-CC
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 86
+ the size of the cell B is: 1
+ the size of the cell C is: 10
+*******************************************
+
+The Explored cell is: 
+
+A-A---B-A-AA
+A--A----AAAA
+A--AAA-AA-AA
+-AA--AA-----
+-AAA--AA-C-C
+AA--A-A--CCC
+A----A-A--C-
+AAA---A---C-
+A---AA----C-
+A--A-AAA--C-
+-A-AA---A--C
+--AAA--A-A--
+AA--AAAAA-AA
+-AAAAA-AAA-A
+AA-A-AA---AA
+AA---A--AA--
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 23
+*******************************************
+
+The Explored cell is: 
+
+-A---A-
+AAAAAAA
+AA--A-A
+AA-AAA-
+AAAAA--
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 57
+ the size of the cell B is: 1
+ the size of the cell C is: 1
+*******************************************
+
+The Explored cell is: 
+
+-A-AA---B
+-AA-AA---
+A-AA--AA-
+A-AAAA--A
+A--AA--A-
+A---A-AAA
+-A--AAAAA
+AAA-AA-AA
+--A-AAA--
+C-AAA-AAA
+-AA-AAAAA
+*******************************************
+
+
+
+*******************************************
+ the size of the cell A is: 126
+ the size of the cell B is: 11
+ the size of the cell C is: 3
+ the size of the cell D is: 2
+ the size of the cell E is: 1
+*******************************************
+
+The Explored cell is: 
+
+AAA-AA-A-A--B---B
+AAA-A-A-AAA--BBBB
+-A-AA-AAA--A---B-
+-----AAA--AAA--BB
+---A-AAA--AAAA-BB
+-A--AAAAA--AA----
+AA-AA--A-AA---CC-
+-AAAA---A--A--C--
+--A-A-AAA-AAA---D
+A-AAA---AAA--A--D
+A-A-A---A---AAA--
+-A---AA-AAA--A-A-
+-AA--A--AAAAA--AA
+A-AA----AAA-AAA-A
+A-AA-E-A-A--AA---
+A---A-AA-A-AAAAAA
+*******************************************
+
+
